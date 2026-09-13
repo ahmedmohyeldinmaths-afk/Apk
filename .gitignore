@@ -1,0 +1,17 @@
+*.iml
+*.class
+.gradle/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+android/.gradle
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/**/GeneratedPluginRegistrant.java
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
